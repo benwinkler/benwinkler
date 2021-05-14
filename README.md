@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @benwinkler from austria
 - 👀 I’m interested in eHealth and web technologies
 - 📫 How to reach me: telegram(@benjey90)
+- LinkedIn: https://www.linkedin.com/in/benjamin-winkler-338741115/
 
 <!---
 benwinkler/benwinkler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
